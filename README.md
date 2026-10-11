@@ -21,6 +21,10 @@ Run it as your normal user, not with `sudo`. It asks for your password when it i
 
 `./install.sh --skip-packages` applies the configs without touching apt.
 
+## Disclaimer
+
+Use at your own risk. The installer installs packages, changes your login shell and edits `~/.zshrc` (with a backup each time). Read `install.sh` before you run it. OhMykali comes with no warranty, see sections 15–16 of the [LICENSE](LICENSE).
+
 ## What it sets up
 
 | Part | What you get |
