@@ -2,6 +2,8 @@
 
 The Kali Linux terminal look on Debian or Ubuntu with GNOME: QTerminal with split panes, Kali's dark theme and a clean two-line zsh prompt that shows your git status.
 
+![QTerminal split into two panes with the OhMykali prompt](docs/screenshot.png)
+
 ```
 [~/Arc/gradex]-[workspace +2 ↑1 ↓3]
 ≽ git status
